@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "586877709916",
+    "project_id": "instatest-puppy",
+    "storage_bucket": "instatest-puppy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586877709916:android:f0ae94feaad92c5ca74099",
+        "android_client_info": {
+          "package_name": "com.socialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586877709916-5243q0ruu7smsg4vvmm78c4gl9q6ua49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNzVtNjVD0lYALb1ntmD6VG4an6f3GfPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586877709916-5243q0ruu7smsg4vvmm78c4gl9q6ua49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
